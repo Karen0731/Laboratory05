@@ -1,0 +1,1 @@
+In this laboratory we make a shopping list that works with js and it adds elements, deletes them and cross them when the user presses the button check
